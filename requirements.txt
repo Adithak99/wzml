@@ -1,4 +1,3 @@
-python-telegram-bot==13.15
 aiohttp
 anytree
 aria2p
@@ -28,7 +27,7 @@ pybase64
 pyrogram
 python-dotenv
 python-magic
-python-telegram-bot
+python-telegram-bot==13.15
 qbittorrent-api
 requests
 speedtest-cli
